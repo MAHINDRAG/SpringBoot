@@ -1,0 +1,5 @@
+com\mahi\mobileApp\SpringBootMobileApp.class
+com\mahi\mobileApp\entity\Mobile.class
+com\mahi\mobileApp\repository\MobileRowMapper.class
+com\mahi\mobileApp\repository\MobileAppDAO.class
+com\mahi\mobileApp\controller\MobileAppController.class
